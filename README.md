@@ -46,8 +46,6 @@ npm run-script start
 npm build
 ```
 
-## Contact
-<img align="left" src="https://avatars.githubusercontent.com/Haloneva_?size=100">
 
 Made with ❤️ by [Alex](https://github.com/Haloneva_), get in touch!
 
