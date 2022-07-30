@@ -47,7 +47,7 @@ npm build
 ```
 
 
-Made with ❤️ by [Alex](https://github.com/Haloneva_), get in touch!
+Made with ❤️ by [Alex](https://github.com/Haloneva), get in touch!
 
 <a href="mailto:mail@getalex.info" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" height="25"></a>&nbsp;
 
