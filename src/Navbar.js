@@ -128,7 +128,6 @@ export default function Example() {
              Team
             </Link>
             
-            
 
             <Popover className="relative">
               {({ open }) => (
@@ -206,14 +205,14 @@ export default function Example() {
                 </nav>
               </div>
             </div>
-            <div className="py-6 px-5 space-y-6">
-              <div className="grid grid-cols-2 gap-y-4 gap-x-8">
-                <Link to="/FAQ"  className="text-base font-medium text-gray-900 hover:text-gray-700">
+            <div className="py-6 px-5 text-2xl space-y-6">
+              <div className=" gap-y-2 gap-x-2">
+              <Link to="/FAQ"  className=" font-medium text-gray-900 pl-2 pr-4 hover:text-gray-700">
                   FAQ
                 </Link>
-                <Link to="/Team"  className="text-base font-medium text-gray-900 hover:text-gray-700">
+                <Link to="/Team"  className="text-base font-medium text-gray-900 pl-10 hover:text-gray-700">
                   Team
-                </Link>   
+                </Link>  
 
                
                 

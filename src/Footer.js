@@ -40,9 +40,7 @@ function Footer() {
           <li>
             <a class="text-white font-light hover:text-gray-500" href="Datenschutz" rel="noreferrer">Datenschutz</a>
           </li>
-          <li>
-            <a class="text-white font-light hover:text-gray-500" href="Nutzungsbedingungen" rel="noreferrer">Nutzungsbedingungen</a>
-          </li>
+         
          
           
         </nav>
@@ -60,7 +58,7 @@ function Footer() {
             <a class="text-white font-light hover:text-gray-500" href="https://discord.tiel24.de/" rel="noreferrer" target="_blank">Discord</a>
           </li>
           <li>
-            <a class="text-white font-light hover:text-gray-500" href="https://tiktok.com/@tiel24.de"  rel="noreferrer" target="_blank">Tiktok</a>
+            <a class="text-white font-light hover:text-gray-500" href="https://tiktok.com/@tiel24.de"  rel="noreferrer" target="_blank">TikTok</a>
           </li>
         </nav>
       </div>
