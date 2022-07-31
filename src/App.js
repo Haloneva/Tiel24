@@ -37,15 +37,15 @@ function App(){
         <Navbar />
         
           <Routes>
-            <Route path="/FAQ" element={<FAQ />} />
+            <Route path="/faq" element={<FAQ />} />
             <Route path="/" element={<Home />} />
             <Route path="/Team" element={<Team />} />
-            <Route path="/FAQ/vServer" element={<FAQVS />} />
-            <Route path="/FAQ/Gameserver" element={<FAQGS />} />
-            <Route path="/FAQ/Instanz" element={<FAQIS />} />
-            <Route path="/Produkte/Gameserver" element={<Gameserver />} />
-            <Route path="/Produkte/Instanzserver" element={<Instanzserver />} />
-            <Route path="/Produkte/vServer" element={<VServer />} />
+            <Route path="/faq/vServer" element={<FAQVS />} />
+            <Route path="/faq/Gameserver" element={<FAQGS />} />
+            <Route path="/faq/Instanz" element={<FAQIS />} />
+            <Route path="/produkte/Gameserver" element={<Gameserver />} />
+            <Route path="/produkte/Instanzserver" element={<Instanzserver />} />
+            <Route path="/produkte/vServer" element={<VServer />} />
             <Route path="/Impressum" element={<Impressum />} />
             <Route path="/Datenschutz" element={<Datenschutz />} />
             <Route path="/Nutzungsbedingungen" element={<Nutzungsbedingungen />} />

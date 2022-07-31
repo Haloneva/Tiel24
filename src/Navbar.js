@@ -19,19 +19,19 @@ const solutions = [
   {
     name: 'vServer',
     description: 'Get a better understanding of where your traffic is coming from.',
-    href: '/Produkte/vServer',
+    href: '/produkte/vServer',
     icon: ServerIcon,
   },
   {
     name: 'Gameserver',
     description: 'Speak directly to your customers in a Mehr meaningful way.',
-    href: '/Produkte/Gameserver',
+    href: '/produkte/Gameserver',
     icon: PuzzleIcon,
   },
   {
     name: 'Instanzserver',
     description: 'Speak directly to your customers in a Mehr meaningful way.',
-    href: '/Produkte/Instanzserver',
+    href: '/produkte/Instanzserver',
     icon: GlobeAltIcon,
   },
   

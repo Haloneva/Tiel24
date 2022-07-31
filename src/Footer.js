@@ -1,4 +1,7 @@
 import React from 'react'
+import Impressum from './rechtliches zeug/Impressum'
+import Datenschutz from './rechtliches zeug/Datenschutz'
+import { Link } from 'react-router-dom'
 
 function Footer() {
   return (
@@ -19,13 +22,13 @@ function Footer() {
         <h2 class="title-font text-m font-medium text-gray-500 tracking-widest  mb-3">Produkte</h2>
         <nav class="list-none mb-10">
           <li>
-            <a href="/Produkte/vServer" rel="noreferrer" class="text-white font-light hover:text-gray-500">vServer</a>
+            <a href="/produkte/vServer" rel="noreferrer" class="text-white font-light hover:text-gray-500">vServer</a>
           </li>
           <li>
-            <a href="/Produkte/Gameserver" rel="noreferrer" class="text-white font-light hover:text-gray-500">Gameserver</a>
+            <a href="/produkte/Gameserver" rel="noreferrer" class="text-white font-light hover:text-gray-500">Gameserver</a>
           </li>
           <li>
-            <a href="/Produkte/Instanzserver" rel="noreferrer" class="text-white font-light  hover:text-gray-500">Instanzserver</a>
+            <a href="/produkte/Instanzserver" rel="noreferrer" class="text-white font-light  hover:text-gray-500">Instanzserver</a>
           </li>
           
          
@@ -35,10 +38,10 @@ function Footer() {
         <h2 class="title-font text-m font-medium text-gray-500 tracking-widest  mb-3">Rechtliches</h2>
         <nav class="list-none mb-10">
           <li>
-            <a class="text-white font-light hover:text-gray-500" href="impressum" rel="noreferrer" >Impressum</a>
+            <a class="text-white font-light hover:text-gray-500" href="../impressum" rel="noreferrer" >Impressum</a>
           </li>
           <li>
-            <a class="text-white font-light hover:text-gray-500" href="Datenschutz" rel="noreferrer">Datenschutz</a>
+            <a class="text-white font-light hover:text-gray-500" href="../Datenschutz" rel="noreferrer">Datenschutz</a>
           </li>
          
          
