@@ -22,6 +22,22 @@
 <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/-TailwindCSS-blue?style=flat&logo=tailwindcss" alt="react Badge" height="25">&nbsp;
 
+## Requirements
+To install the requirements, follow the steps
+```bash
+# Install latest nodejs version
+
+curl -sL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+# Install npm
+
+sudo apt-get install -y npm
+```
+
+
+
+
 ## Installation
 To Install this project, follow the steps above:
 ```bash
