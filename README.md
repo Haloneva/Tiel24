@@ -27,7 +27,7 @@ To Install this project, follow the steps above:
 ```bash
 # Clone the repository 
 
-http://git.inexo.at/alex/Tiel24Website.git
+git clone http://git.inexo.at/alex/Tiel24Website.git
 
 # Install required npm packages
 
