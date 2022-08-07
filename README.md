@@ -43,7 +43,7 @@ To Install this project, follow the steps above:
 ```bash
 # Clone the repository 
 
-git clone http://git.inexo.at/alex/Tiel24Website.git
+git clone https://github.com/Haloneva/Tiel24.git
 
 # Install required npm packages
 
