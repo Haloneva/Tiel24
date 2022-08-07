@@ -22,13 +22,13 @@ function Footer() {
         <h2 class="title-font text-m font-medium text-gray-500 tracking-widest  mb-3">Produkte</h2>
         <nav class="list-none mb-10">
           <li>
-            <a href="/produkte/vServer" rel="noreferrer" class="text-white font-light hover:text-gray-500">vServer</a>
+            <a href="/produkte/vserver" rel="noreferrer" class="text-white font-light hover:text-gray-500">vServer</a>
           </li>
           <li>
-            <a href="/produkte/Gameserver" rel="noreferrer" class="text-white font-light hover:text-gray-500">Gameserver</a>
+            <a href="/produkte/gameserver" rel="noreferrer" class="text-white font-light hover:text-gray-500">Gameserver</a>
           </li>
           <li>
-            <a href="/produkte/Instanzserver" rel="noreferrer" class="text-white font-light  hover:text-gray-500">Instanzserver</a>
+            <a href="/produkte/instanzserver" rel="noreferrer" class="text-white font-light  hover:text-gray-500">Instanzserver</a>
           </li>
           
          
@@ -41,7 +41,7 @@ function Footer() {
             <a class="text-white font-light hover:text-gray-500" href="../impressum" rel="noreferrer" >Impressum</a>
           </li>
           <li>
-            <a class="text-white font-light hover:text-gray-500" href="../Datenschutz" rel="noreferrer">Datenschutz</a>
+            <a class="text-white font-light hover:text-gray-500" href="../datenschutz" rel="noreferrer">Datenschutz</a>
           </li>
          
          

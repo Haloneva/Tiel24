@@ -8,7 +8,7 @@ import Footer from '../Footer'
 
 function Home() {
   return (
-   <><Pricing /><Versprechen /><Banner/><Faq/><Review/><Footer/></>
+    <><Pricing /><Versprechen /><Banner/><Faq/><Review/><Footer/></>
    
   )
 }

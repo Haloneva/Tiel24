@@ -13,15 +13,15 @@ function Faq() {
 				  <div className=" flex flex-col w-full text-2xl divide-y divide-gray-700">
 
 
-					  <Link to="/FAQ/vServer"  className="flex items-center justify-center p-4 sm:py-8 lg:py-12">vServer</Link>
+					  <Link to="/faq/vserver"  className="flex items-center justify-center p-4 sm:py-8 lg:py-12">vServer</Link>
 				  </div>
 				  <div className="flex flex-col w-full divide-y divide-gray-700">
 
-					  <Link to="/FAQ/Gameserver" rel="noopener noreferrer" href="#" className="flex items-center justify-center p-4 sm:py-8 lg:py-12">Gameserver</Link>
+					  <Link to="/faq/gameserver" rel="noopener noreferrer" href="#" className="flex items-center justify-center p-4 sm:py-8 lg:py-12">Gameserver</Link>
 				  </div>
 				  <div className="flex flex-col w-full divide-y divide-gray-700">
 
-					  <Link to="/FAQ/Instanz" href="#" className="flex items-center justify-center text-xl p-4 sm:py-8 lg:py-12">Instanzserver</Link>
+					  <Link to="/faq/instanz" href="#" className="flex items-center justify-center text-xl p-4 sm:py-8 lg:py-12">Instanzserver</Link>
 				  </div>
 			  </div>
 		  </div>

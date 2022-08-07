@@ -40,15 +40,15 @@ function App(){
             <Route path="/faq" element={<FAQ />} />
             <Route path="/" element={<Home />} />
             <Route path="/Team" element={<Team />} />
-            <Route path="/faq/vServer" element={<FAQVS />} />
-            <Route path="/faq/Gameserver" element={<FAQGS />} />
-            <Route path="/faq/Instanz" element={<FAQIS />} />
-            <Route path="/produkte/Gameserver" element={<Gameserver />} />
-            <Route path="/produkte/Instanzserver" element={<Instanzserver />} />
-            <Route path="/produkte/vServer" element={<VServer />} />
-            <Route path="/Impressum" element={<Impressum />} />
-            <Route path="/Datenschutz" element={<Datenschutz />} />
-            <Route path="/Nutzungsbedingungen" element={<Nutzungsbedingungen />} />
+            <Route path="/faq/vserver" element={<FAQVS />} />
+            <Route path="/faq/gameserver" element={<FAQGS />} />
+            <Route path="/faq/instanz" element={<FAQIS />} />
+            <Route path="/produkte/gameserver" element={<Gameserver />} />
+            <Route path="/produkte/instanzserver" element={<Instanzserver />} />
+            <Route path="/produkte/vserver" element={<VServer />} />
+            <Route path="/impressum" element={<Impressum />} />
+            <Route path="/datenschutz" element={<Datenschutz />} />
+            <Route path="/nutzungsbedingungen" element={<Nutzungsbedingungen />} />
            
             </Routes>  
            

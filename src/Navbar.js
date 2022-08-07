@@ -19,19 +19,19 @@ const solutions = [
   {
     name: 'vServer',
     description: 'Get a better understanding of where your traffic is coming from.',
-    href: '/produkte/vServer',
+    href: '/produkte/vserver',
     icon: ServerIcon,
   },
   {
     name: 'Gameserver',
     description: 'Speak directly to your customers in a Mehr meaningful way.',
-    href: '/produkte/Gameserver',
+    href: '/produkte/gameserver',
     icon: PuzzleIcon,
   },
   {
     name: 'Instanzserver',
     description: 'Speak directly to your customers in a Mehr meaningful way.',
-    href: '/produkte/Instanzserver',
+    href: '/produkte/instanzserver',
     icon: GlobeAltIcon,
   },
   
@@ -121,10 +121,10 @@ export default function Example() {
               )}
             </Popover>
 
-            <Link to="/FAQ" className="text-base font-medium text-gray-500 hover:text-gray-900">
+            <Link to="/faq" className="text-base font-medium text-gray-500 hover:text-gray-900">
               FAQ
             </Link>
-            <Link to="/Team" className="text-base font-medium text-gray-500 hover:text-gray-900">
+            <Link to="/team" className="text-base font-medium text-gray-500 hover:text-gray-900">
              Team
             </Link>
             

@@ -6,10 +6,10 @@ import {
 
 function Banner() {
   return (
-    <div className=" shadow-2xl bg-green-500 text-2xl">
-      <div className="max-w-7xl mx-auto py-12  ">
+    <div className=" text-2xl max-w-full shadow-2xl bg-green-500 text-2xl">
+      <div className="max-w-7xl mx-auto py-12 px-2  lg:px-3 ">
         <div className="flex items-center justify-between flex-wrap">
-          <div className="pl-2 w-0 flex-1 flex items-center">
+          <div className="pl-4 w-0 flex-1 flex items-center">
             <span className="flex p-2 rounded-lg bg-green-800">
               <SpeakerphoneIcon className="h-6 w-6 text-white" aria-hidden="true" />
             </span>
