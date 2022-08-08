@@ -25,9 +25,9 @@
 ## Requirements
 To install the requirements, follow the steps
 ```bash
-# Install latest nodejs version
+# Install nodejs v16
 
-curl -sL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
 # Install npm
