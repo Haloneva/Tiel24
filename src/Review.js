@@ -14,7 +14,7 @@ import "swiper/css/navigation";
 export default function App() {
   return (
     <>
-    <h1 class="mt-2 text-4xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-5xl grid  place-items-center pb-10">Rezension</h1>
+    <h1 class="mt-2 text-4xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-5xl grid  place-items-center pb-10">Rezensionen</h1>
       <Swiper
         slidesPerView={1}
         spaceBetween={30}

@@ -14,8 +14,8 @@ function Footer() {
         </svg>
         <span class="ml-3  text-white text-xl">Tiel24.de</span>
       </a>
-      <p class="mt-2 text-sm text-white">© 2022 Tiel24 — made by</p>
-      <a class="mt-2 text-sm text-white" href="https://inexo.at">Alex | InexoAT</a>
+      <p class="mt-2 text-sm text-white">Copyright @ Tiel24 2022</p>
+      <a class="mt-2 text-sm text-white" href="https://inexo.at">Made by Alex</a>
     </div>
     <div class="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center">
       <div class="lg:w-1/4 md:w-1/2 w-full px-4">
