@@ -1,9 +1,6 @@
 <h1 align="center">
 	Tiel24 Website
 </h1>
-<h2 align="center">
-(Project was ended)
-</h2>
 
 <h3 align="center">
 	React Website to fork and customize 
