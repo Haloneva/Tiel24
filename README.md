@@ -7,7 +7,8 @@
 </h3>
 
 <h4 align="center">
-	Status: 🚧 In Construction
+	Status: 🚧 In Construction <br>
+	Project was ended. 
 </h4>
 
 <p align="center">
